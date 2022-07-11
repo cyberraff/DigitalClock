@@ -1,2 +1,2 @@
 # DigitalClock
-simple Digital clock with a callender
+simple Digital clock with a calender
